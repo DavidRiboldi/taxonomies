@@ -28,7 +28,7 @@ seed_examples:
       - question: Come si crea un'automazione?
         answer: Tramite un sistema visuale basato su "Trigger" (evento scatenante) e "Azione" (conseguenza).
       - question: Fai un esempio di workflow.
-        answer: Trigger: un bug critico viene creato su Jira. Azione: Papaya AI invia una notifica prioritaria su Slack.
+        answer: Il trigger è un bug critico viene creato su Jira e l'azione è che Papaya AI invia una notifica prioritaria su Slack.
 
   - context: Papaya AI si integra nativamente con decine di strumenti leader del settore, inclusi Jira, Trello, Slack, GitHub e Google Workspace.
     questions_and_answers:
